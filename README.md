@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# 🌐 Akash Kumar Gupta — Portfolio Website  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A personal portfolio website built using **React.js** and **Material UI**, designed to showcase my projects, skills, and experience as a Mechanical Engineering student with a strong interest in software development and AI/ML.  
 
-## Available Scripts
+🚀 **Live Demo:** [https://Iamakash123.github.io/my-portfolio](https://Iamakash123.github.io/my-portfolio)  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🧑‍💻 About  
+I’m **Akash Kumar Gupta**, a final-year B.Tech Mechanical Engineering student at **NIT Delhi**, with a minor in **Artificial Intelligence & Machine Learning**.  
+This portfolio highlights my journey, technical skills, and hands-on projects in software development, machine learning, and automation.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Material UI, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **AI/ML:** Python, TensorFlow, Scikit-learn, NLTK, Pandas  
+- **Tools:** Git, VS Code, Google Colab  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📁 Features  
+✅ Responsive and modern UI (Material UI + Framer Motion)  
+✅ Dark / Light mode toggle  
+✅ Projects showcase with GitHub links  
+✅ Downloadable resume  
+✅ Contact section with email and social links  
+✅ SEO-friendly meta tags and custom favicon  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💼 Projects Included  
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| **AcadBud** | Full-stack academic productivity manager for managing tasks, notes, and schedules | React, Node.js, MongoDB |
+| **Market Mood** | NLP-based stock sentiment analyzer using financial headlines | Python, TensorFlow, NLTK |
+| **Movie Recommender System** | SVD-based recommender system using MovieLens dataset | Python, Pandas, Scikit-learn |
+| **Automated Vegetable Transplanter** | Arduino-based mechanical automation project | Arduino, Embedded Systems |
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⚙️ Local Setup  
 
-### `npm run eject`
+Clone this repository and run the following commands:  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/Iamakash123/my-portfolio.git
+cd my-portfolio
+npm install
+npm start
